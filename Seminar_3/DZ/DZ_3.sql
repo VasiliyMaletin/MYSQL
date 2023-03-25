@@ -69,4 +69,4 @@ FROM staff) staff_new;
 SELECT post
 FROM staff
 GROUP BY post
-HAVING AVG(age) < 30;
+HAVING AVG(age) < 31;
