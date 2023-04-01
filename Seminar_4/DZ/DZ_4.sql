@@ -29,7 +29,6 @@ VALUES
         ("Vicont",3,1),
         ("Zuza",4,3);
 
-
 ------- Последнее задание, таблица:
 
 CREATE TABLE IF NOT EXISTS Analysis
